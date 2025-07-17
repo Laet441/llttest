@@ -1,7 +1,8 @@
 // import { connect } from "./connect.js";
 // connect();
 
-require("dotenv").config();
+import { dotenv } from "dotenv";
+// require("dotenv").config();
   
 console.log(process.env.API_KEY);
 
