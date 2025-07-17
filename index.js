@@ -1,4 +1,4 @@
-console.log(process.env.API_KEY);
+console.log(process.env);
 
 // import { connect } from "./connect.js";
 // connect();
