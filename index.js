@@ -1,8 +1,7 @@
+console.log(process.env.API_KEY);
+
 // import { connect } from "./connect.js";
 // connect();
-
-import { API_KEY } from "./secret.js";
-console.log(API_KEY);
 
 // require("dotenv").config();
 
