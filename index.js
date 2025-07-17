@@ -1,3 +1,4 @@
+require("dotenv").config();
 console.log(process.env);
 
 // import { connect } from "./connect.js";
