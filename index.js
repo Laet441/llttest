@@ -1,4 +1,5 @@
-require("dotenv").config();
+// require("dotenv").config();
+process.env.API_KEY="6dad5d4a74aa4e79c0cafa4431ab0e9b0e3a6";
 console.log(process.env.API_KEY);
 
 // 
