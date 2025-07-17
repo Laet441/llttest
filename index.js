@@ -12,7 +12,7 @@ fetch(db, { headers: {
 .then(data => console.log(data))
 .catch(error => console.error(error))
 
-console.log(process.env);//.API_KEY);
+// console.log(process.env);//.API_KEY);
 // 
 // console.log("BRUH");
 
